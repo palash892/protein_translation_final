@@ -29,7 +29,9 @@ Our latest research is now published in **PNAS Nexus**!🎉
 - Size-dependent spatial organization in the cytoplasm arises from entropic segregation of ribosomes and DNA.
 - Ribosomal transitions during protein synthesis enhance cytoplasmic fluidity by counteracting glassy dynamics.
 - Protein synthesis, the largest consumer of ATP, plays a central role in maintaining cytoplasmic fluidity in active bacterial cells.
+
 📖 Check out the full study for more insights!
+
 Stay tuned for more exciting updates! 
 
  
