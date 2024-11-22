@@ -19,7 +19,16 @@ This folder contains the scripts and input files to study the effect of polysome
 Mark James Abraham, Teemu Murtola, Roland Schulz, Szilárd Páll, Jeremy C Smith, Berk Hess, and Erik Lindahl. "Gromacs: High-performance molecular simulations through multi-level parallelism from laptops to supercomputers." *SoftwareX*, 1:19–25, 2015.
 
 ## News!
-### 🚀 Publication Alert  
+Publication Alert 🚀
+Our latest research is now published in **PNAS Nexus**!🎉
 
-Our latest research is now published in **PNAS Nexus**!  
+🔍 Key Findings:
+
+- Size-dependent spatial organization in the cytoplasm arises from entropic segregation of ribosomes and DNA.
+- Ribosomal transitions during protein synthesis enhance cytoplasmic fluidity by counteracting glassy dynamics.
+- Protein synthesis, the largest consumer of ATP, plays a central role in maintaining cytoplasmic fluidity in active bacterial cells.
+📖 Check out the full study for more insights!
+Stay tuned for more exciting updates! 
+
+ 
 
