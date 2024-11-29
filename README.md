@@ -30,7 +30,7 @@ Our latest research is now published in **PNAS Nexus**!🎉
 - Ribosomal transitions during protein synthesis enhance cytoplasmic fluidity by counteracting glassy dynamics.
 - Protein synthesis, the largest consumer of ATP, plays a central role in maintaining cytoplasmic fluidity in active bacterial cells.
 
-📖 Check out the full study for more insights!
+📖 Check out the full study [here](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae532/7907005) for more insights!
 
 Stay tuned for more exciting updates! 
 
